@@ -25,33 +25,33 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "photography",
       "keywords": [
        
       ]
     },
     {
-      "name": "data mining",
+      "name": "hiking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "STEAM",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        ""
       ]
     },
     {
