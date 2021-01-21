@@ -19,6 +19,11 @@
         "network": "github",
         "username": "daphneoh",
         "url": "http://github.com/daphneoh"
+      },
+        {
+        "network": "LinkedIn",
+        "username": "daphneoh",
+        "url": "https://www.linkedin.com/in/daphne-oh-958566204/"
       }
      
     ]
@@ -69,9 +74,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Fall, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2017-09-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -79,71 +84,39 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+    
+    
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Latter Day Saint Student Association",
+      "position": "Secretary",
+      "startDate": "2020-02-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain an organized schedule for the association",
+        "Transcribe notes of the weekly meetings",
+        "Worked to iIncreased membership and participation by 30%",
+        "Network job and volunteer opportunities for members"
       ]
     },
     {
-      "organization": "",
+      "organization": "Rancho Simi Recreation Center",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Volleyball Instructor",
+      "startDate": "2016-03-30",
+      "endDate": "2018-06-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Instructed kids, age 8 – 14 how to improve volleyball skills",
+        "Lead the whole group in stretches and warm-ups",
+        "Set up and took down volleyball nets for three courts"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    
   ],
   "references": [
     {
