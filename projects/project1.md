@@ -10,6 +10,11 @@ labels:
   - JavaScript
 summary: Created a fake nailpolish online store.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/storeproj.png">
+  <img class="ui image" src="../images/storeproj1.png">
+  
+</div>
 
 In my ITM 352 class, we worked in JavaScript and HTML. The assignment started with building a simple e-commerce store with requirements from a client. The main requirements for this assignment was: 
 1. Use multidimensional arrays (an array that holds other arrays) to efficiently share and use data (display items and process invoice)
