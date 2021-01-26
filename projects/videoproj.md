@@ -5,7 +5,7 @@ image:
 title: Video
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2020-6-06
+date: 2020-06-06
 labels:
   - Video
 summary: Used video editing and art work.
