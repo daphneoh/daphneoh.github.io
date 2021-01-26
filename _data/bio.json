@@ -58,17 +58,6 @@
         "",
         ""
       ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
     }
   ],
   "education": [
@@ -77,22 +66,19 @@
       "area": "Management Information Systems (expected Fall, 2021)",
       "studyType": "B.B.A.",
       "startDate": "2017-09-20",
-      "endDate": "Present",
+      "endDate": "2021",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
-    
-    
-  ],
+ 
   "volunteer": [
     {
       "organization": "Latter Day Saint Student Association",
       "position": "Secretary",
       "startDate": "2020-02-01",
-      "endDate": "Present",
+      "endDate": "2021",
       "summary": "",
       "highlights": [
         "Maintain an organized schedule for the association",
@@ -115,9 +101,7 @@
       ]
     }
   ],
-  "awards": [
-    
-  ],
+ 
   "references": [
     {
       "name": "Available upon request",
