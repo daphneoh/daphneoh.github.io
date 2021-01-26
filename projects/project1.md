@@ -16,7 +16,7 @@ summary: Created a fake nailpolish online store.
   
 </div>
 
-In my ITM 352 class, we worked in JavaScript and HTML. The assignment started with building a simple e-commerce store with requirements from a client. The main requirements for this assignment was: 
+In my ITM 352 last semester class, we worked in JavaScript and HTML. The assignment started with building a simple e-commerce store with requirements from a client. The main requirements for this assignment was:
 1. Use multidimensional arrays (an array that holds other arrays) to efficiently share and use data (display items and process invoice)
 2. Use forms to allow users to select and process multiple products/services.information.
 3. Validate data entered before using it (not just guarding against invalid input).
