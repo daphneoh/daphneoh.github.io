@@ -22,7 +22,8 @@ In my ITM 352 last semester class, we worked in JavaScript and HTML and other th
 3. Validate data entered before using it (not just guarding against invalid input).
 4. Connect multiple web pages and that dynamically interact with a user (web application).
 
-More info can be found https://dport96.github.io/ITM352_NEW/morea/130.Assignment1/experience-Assignment1.html
+
+More info can be found [Project Directions](https://dport96.github.io/ITM352_NEW/morea/130.Assignment1/experience-Assignment1.html)
 
 I learned how to do data validation and use sticky values in programming the page. I was able to implement a complete IS application. I was sole designer of the user interface and process user input. I worked with managing information with data types and interpreting and following development requirements. 
 
