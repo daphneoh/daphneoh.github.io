@@ -10,7 +10,7 @@ labels:
 ---
 ## Good Question
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/GoodQuest.png">
+  <img class="ui image" src="../images/GoodQuestion.png">
 </div>
 [Example of Good Question](https://stackoverflow.com/questions/65948673/runtimeerror-working-outside-of-application-context-occurs-when-my-form-class)
 This is an example of a good question according to Eric Raymond's guidelines to asking questions. This user included in their post the research they did and how they still could not figure out their question. They included their original code and where they think their error might be. Their question is specific and not general, so that helps when people are providing answers. They also included the specific language they are using, Python, so Python programmers can help answer. 
