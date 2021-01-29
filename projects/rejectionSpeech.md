@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/RejectionSpeech.png
-title: Video
+image: images/RejctionSpeech.png
+title: Rejection Speech
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-12
