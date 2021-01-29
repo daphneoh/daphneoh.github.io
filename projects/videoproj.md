@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/proj2.png
 title: Video
 permalink: 
 # All dates must be YYYY-MM-DD format!
