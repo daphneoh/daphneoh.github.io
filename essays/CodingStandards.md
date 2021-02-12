@@ -26,5 +26,7 @@ return num;
 let num=0;
 for(int =0;i<3;i++){num+=1;i++}return num;
 
-I have made the same simple syntax error in both codes. You tell me which one is easier to find the error in. Obviously Example 1 that follows some kind of coding standard. (I forgot a semicolon after the i++)
+I have made the same simple syntax error in both codes. You tell me which one is easier to read. 
 
+## ESLint
+ESLint is a stricter coding standard to follow, but it allows all code to look uniform. Offering suggestions how to fix the errors is very helpful to learn Javascript and keep neat code. It is hard to keep different coding languages and their certain rules in mind. ESLint will catch those errors and have suggestions to fix them. It is a little difficult using Underscore, because with ESLint you have to run your code in Google to see the console and the output, but overall it is worth it to be able to get the green check mark and have errors highlighted. 
