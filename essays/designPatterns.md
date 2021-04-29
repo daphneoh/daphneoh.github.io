@@ -17,7 +17,7 @@ For our application, we used the "gold standard" model-view-controller design pa
 
 ## Model
 You have the model which is the server/ database that contains the collections your application uses. 
-<img src='../images/model.png'>
+<img class='medium' src='../images/model.png'>
 This is what our model looks like in our program for out Items. We have a MongoDB collection to hold our default items. 
 
 ## View
