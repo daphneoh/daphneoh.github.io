@@ -10,7 +10,7 @@ labels:
   - JavaScript
 summary: Created a fake nailpolish online store.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/storeproj.png">
   <img class="ui image" src="../images/storeproj1.png">
   
