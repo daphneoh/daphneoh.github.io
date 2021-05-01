@@ -15,13 +15,19 @@ summary: Created an online store where UH community members can sell their used 
 To view the project code visit : 
 [campus clearout center](https://github.com/campus-clearout-center/clearout-center)
 
+
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/landingPage.png">
+</div>
+
+
 ## Overview 
 Campus Clearout Center is a program that will allow users of the UHM community to list and post various objects for sale. After all, another man’s trash is another man’s treasure. But for the UHM community this could be old textbooks, “campus-specific” goods, generally things that need to be recycled which might offer use to another student. The service will allow buyers to easily browse through the item and choose a location on campus to meet.
 
 ## Contributions
 My contributions to this project was working on a page to allow users to edit their profile, creating a catalog, and allowing users to leave reviews on other's profile pages. Users can only edit certain parts of their created profile. The catalog is where users can search for specific items with the labels we have created. And users can leave their rating out of five stars with comments about other users. 
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/editProfile.png">
   <img class="ui image" src="../images/catalogPages.png">
   <img class="ui image" src="../images/Reviews.png">
